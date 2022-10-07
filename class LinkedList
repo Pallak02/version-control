@@ -1,0 +1,6 @@
+
+
+	# Function to initialize the Linked
+	# List object
+	def __init__(self):
+		self.head = None
